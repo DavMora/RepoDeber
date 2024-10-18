@@ -9,10 +9,10 @@
  */
 public class proyecto01 {
     public static void main(String[] args) {
-        System.out.println("Ejemplo básico de Java\n" +
-"Versionado a través de Git\n" +
+        System.out.println("Ejemplo de Java\n" +
 "Manejado desde GitHub\n" +
-"Recuerde usar la sentencia");
+"Versionado a través de Git\n" +
+"Creado por <DavMora>");
     }
          
 }
